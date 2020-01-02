@@ -1,9 +1,9 @@
 {
   "configs": {
-    "enable_inters_ads": false,
+    "enable_inters_ads": true,
     "rate_this_app": true,
-    "time_one_show": 2,
-    "version_code": 1,
+    "time_one_show": 86400000,
+    "version_code": 1000,
     "access_key": ""
   }
 }
