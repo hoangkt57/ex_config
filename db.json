@@ -4,6 +4,7 @@
     "rate_this_app": true,
     "time_one_show": 43200000,
     "version_code": 1001,
-    "access_key": ""
+    "access_key": "",
+    "ads_platform": "gamob"
   }
 }
